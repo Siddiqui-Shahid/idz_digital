@@ -15,5 +15,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+
+The application is made to fetch data from an dummy API and then Display on the app
+
+
 Yse the following drive URL to download the application's APK. :-
 https://drive.google.com/file/d/1In8uP8iPU9FpmhCRoZrBx0Cb3wIydItC/view?usp=sharing
