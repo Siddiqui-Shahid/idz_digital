@@ -24,9 +24,7 @@ https://drive.google.com/file/d/1In8uP8iPU9FpmhCRoZrBx0Cb3wIydItC/view?usp=shari
 
 
 The Application Has two screens and they are as follows:-
+❮img src="https://user-images.githubusercontent.com/71084660/189488447-cc8031c9-5440-4d52-b31d-7540576b9ebd.jpg" height="100" ❯
+❮img src="https://user-images.githubusercontent.com/71084660/189488453-b4ffa8db-d101-48f2-9b26-2e6cc48f6e5e.jpg" height="100" ❯
 
-![photo_2022-09-10_20-13-03](https://user-images.githubusercontent.com/71084660/189488447-cc8031c9-5440-4d52-b31d-7540576b9ebd.jpg)
 
-
-
-![photo_2022-09-10_20-13-00](https://user-images.githubusercontent.com/71084660/189488453-b4ffa8db-d101-48f2-9b26-2e6cc48f6e5e.jpg)
