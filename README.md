@@ -20,7 +20,7 @@ The application is made to fetch data from an dummy API and then Display on the 
 
 
 Yse the following drive URL to download the application's APK. :-
-https://drive.google.com/file/d/1In8uP8iPU9FpmhCRoZrBx0Cb3wIydItC/view?usp=sharing
+https://drive.google.com/file/d/10Zfvp4Q_n2lr2tdKQ3pQfCW66uGuatai/view?usp=sharing
 
 
 The Application Has two screens and they are as follows:-
